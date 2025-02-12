@@ -24,18 +24,18 @@ tags:
 colorID: 2
 position: 23871,-2985
 ---
-Mae: Hey Mr. Chazokov! #line:f671f6
-Chazokov: Hello Mae! My best worst student! #line:595f46
-Mae: ha ha. yeah. #line:77eefa
-Mae: Liked the constellations. Hated school. #line:e7d705
-Chazokov: Hey, don’t knock school. School is vital for your future! #line:c08df7
-Chazokov: What are you doing back in Possum Springs? #line:c18ef8
-Mae: I dropped out of school. #line:0a5788
-Chazokov: Oh. #line:d14d8c
-Chazokov: Well, if you’re still interested in constellations #line:1af31a
-Chazokov: come by my roof down the hill later this week. #line:807544
-Chazokov: Should have my new telescope set up by then. #line:ec8640
-Mae: Sure thing! #line:aa4ffd
+Mae: Merhaba Bay Chazokov! #line:f671f6
+Chazokov: Merhaba Mae! En kötü öğrencilerimin en iyisi! #line:595f46
+Mae: ha ha. evet. #line:77eefa
+Mae: Yıldızları severdim. Ama okuldan nefret ederdim. #line:e7d705
+Chazokov: Hey, okulu boşlama. Geleceğin için önemli bir aşamadır! #line:c08df7
+Chazokov: Peki sen geri Possum Springs'te ne yapıyorsun bakalım? #line:c18ef8
+Mae: Okulu bıraktım. #line:0a5788
+Chazokov: Ha. #line:d14d8c
+Chazokov: Eh, eğer hala yıldızlarla ilgileniyorsan #line:1af31a
+Chazokov: haftanın ilerleyen günlerinde çatıma uğra. #line:807544
+Chazokov: O zamana teleskobumu kurmuş olurum. #line:ec8640
+Mae: Tamamdır! #line:aa4ffd
 ===
 title: Chazokov_001
 tags: 
@@ -68,16 +68,16 @@ colorID: 0
 position: 23337,-3128
 ---
 Mae: <o> #line:4f07ae
-Mae: Hey Mr. Chazokov #line:8fc4e0
-Chazokov: Did you jump down from the next door roof? #line:847e4c
-Varney: {medianLocator} I'm going to call the cops next time, Mae! #line:f9214d
-Mae: Whatevs. #line:66e2b3
-Varney: {medianLocator} What? #line:585894
-Chazokov: I am like you, Mae. I am up here where a bear does not belong. #line:957ed3
-Mae: Are you using a telescope to... uh... #line:1ad01c
-Mae: stare at the sun? #line:4b1a99
-Chazokov: No no no! #line:c93eda
-Chazokov: I am calibrating for tonight, for something [color=dddddd][wave]amazing[/all]! #line:02807b
+Mae: Merhaba Bay Chazokov #line:8fc4e0
+Chazokov: Karşı evin çatısından mı atladın sen? #line:847e4c
+Varney: {medianLocator} Bir sonrakinde polisi çağıracağım, Mae! #line:f9214d
+Mae: Her neyse. #line:66e2b3
+Varney: {medianLocator} Ne? #line:585894
+Chazokov: Ben de senin gibiyim, Mae. Bir ayının ait olmadığı bir yerde duruyorum. #line:957ed3
+Mae: Sen şu teleskobu... şey... #line:1ad01c
+Mae: güneşe bakmak için mi kullanıyorsun? #line:4b1a99
+Chazokov: Hayır hayır hayır! #line:c93eda
+Chazokov: Bugün için kalibrasyon yapıyorum, [color=dddddd][wave]muhteşem[/all] bir şey için! #line:02807b
 Mae: _o_ #line:f993bc
 <<set $chazokov to 1>>
 ===
@@ -87,17 +87,17 @@ colorID: 0
 position: 22841,-2849
 ---
 Mae: <o> #line:50bb4b
-Mae: So what is this amazing thing? #line:cfb403
-Chazokov: Castys will appear in the western sky! #line:9561da
-Mae: Who's Castys? #line:2bc378
-Mae: What's Castys? #line:e134ed
-Chazokov: Castys is a dusk star- a faint and wandering celestial object. #line:b7367f
-Chazokov: The star tells the story of woman who built a tower to heaven #line:551fd7
-Chazokov: And for this the gods sunk her deep into the sea. #line:23256e
-Mae: Wow. Jerks. #line:ed496c
-Chazokov: But even in the depths, she refused to die. #line:460ac3
+Mae: Ee, bu muhteşem şey nedir? #line:cfb403
+Chazokov: Castys batıda belirecek! #line:9561da
+Mae: Castys kim? #line:2bc378
+Mae: Castys ne? #line:e134ed
+Chazokov: Castys bir alacakaranlık yıldızıdır- soluk ve gezgin bir gök cismi. #line:b7367f
+Chazokov: Bu yıldız cennete kadar bir kule inşaa eden kadının hikayesini anlatır #line:551fd7
+Chazokov: Ve sonrasında tanrıların o kuleyi denizin dibine batırmasını. #line:23256e
+Mae: Vay şerrolar. #line:ed496c
+Chazokov: Ama suyun derinliklerinde bile kadın ölümü reddetti. #line:460ac3
 Mae: :) #line:329208
-Mae: [size=1.2][shake=.01]DAMN STRAIGHT.[/shake][/size] #line:521d6c
+Mae: [size=1.2][shake=.01]AYNEN ÖYLE KIZIM.[/shake][/size] #line:521d6c
 Mae: :| _o_ #line:829414
 <<set $chazokov to 2>>
 
@@ -107,24 +107,24 @@ tags: demo
 colorID: 0
 position: 23097,-2831
 ---
-Chazokov: What do you think the story means? #line:83c8b2
+Chazokov: Sence bu hikayenin anlamı nedir? #line:83c8b2
 <<set $chazokov to 3>>
-[[It means do awesome stuff and never die.|refuse]] #line:e0b75c
-[[It means screw the gods, they are total jerks.|gods]] #line:3e7c6c
+[[Güzel şeyler yapıp asla ölmemeyi anlatıyor.|refuse]] #line:e0b75c
+[[Tanrıların bokluğunu ve onları takmamamız gerektiğini anlatıyor.|gods]] #line:3e7c6c
 ===
 title: Chazokov_gods
 tags: demo
 colorID: 0
 position: 23341,-2596
 ---
-Chazokov: The gods are only stand-ins for things we cannot easily control. #line:fa0ab3
-Chazokov: We might just say floods, or cancer, or what have you. #line:2a2122
-Mae: Well, all of those things are jerks too. =_= #line:8a508e
-Chazokov: You'll have no argument from me. #line:b91f62
-Chazokov: But we can't control the stars either #line:a76034
-Chazokov: and they are bigger and brighter than we are. #line:089975
-Mae: I might come back and check out your telescope sometime. o_o #line:39cf3d
-Chazokov: My roof is your roof! #line:a55d77
+Chazokov: Tanrılar sadece kolay kontrol edemeyeceğimiz şeyleri temsil ediyor. #line:fa0ab3
+Chazokov: Sel, kanser veya başka herhangi bir şey de olabilirdi. #line:2a2122
+Mae: Eh, tüm bu saydıkların da bok gibi. =_= #line:8a508e
+Chazokov: Buna karşı çıkmam. #line:b91f62
+Chazokov: Ama yıldızları da kontrol edemeyiz #line:a76034
+Chazokov: ve onlar bizden daha parlak ve daha büyüktür. #line:089975
+Mae: Bir ara gelip teleskobuna bakabilirim. o_o #line:39cf3d
+Chazokov: Benim çatım senin çatındır! #line:a55d77
 <<addToJournal SpaceIsReallyCool>>
 <<unlockDoodle Telescope 1>>
 ===
@@ -134,14 +134,14 @@ colorID: 0
 position: 23585,-2597
 ---
 Chazokov: Ho ho ho! #line:c7233e
-Chazokov: If only it were that easy. #line:6b69a3
-Chazokov: Think of Mr. Applebaum. #line:8a0ce6
-Mae: The statue guy? #line:972fe0
-Chazokov: His statue stands, but he and his mine are gone. #line:a93fec
-Mae: Well, I'm going to live forever. :) #line:de02d9
-Chazokov: I know you will, Mae. #line:ab575d
-Mae: I'm an effing Dracula. \o/ #line:90206c
-Chazokov: Oh no! #line:756e7e
+Chazokov: Keşke böyle kolay olsaydı. #line:6b69a3
+Chazokov: Bay Applebaum'u düşün. #line:8a0ce6
+Mae: Heykel adam mı? #line:972fe0
+Chazokov: Heykeli duruyor ama o ve madeni gitti. #line:a93fec
+Mae: Eh, ben sonsuza kadar yaşayacağım. :) #line:de02d9
+Chazokov: Bunu yapacağını biliyorum, Mae. #line:ab575d
+Mae: Ben bi' Drakulayım. \o/ #line:90206c
+Chazokov: Oh olamaz! #line:756e7e
 Mae: :| _o_ #line:ee4349
 <<addToJournal TodoHideSoul>>
 <<unlockDoodle Telescope 2>>
@@ -152,16 +152,16 @@ colorID: 0
 position: 23332,-2842
 ---
 Mae: <o> #line:6fd2ac
-Mae: Are you an astrologer or something? #line:f1daf4
-Chazokov: The word is [wave]astronomer[/wave], and I am but an amateur. #line:74f5ad
-Mae: You know a lot for someone who isn't paid to know about it. #line:a58a14
-Chazokov: That is one of the saddest sentences I've ever heard. #line:39be2d
+Mae: Sen bir astrolog falan mısın? #line:f1daf4
+Chazokov: Aradığın kelime [wave]astronom[/wave], ve ben sadece bir amatörüm. #line:74f5ad
+Mae: Bu işten para almayan birine göre çok fazla şey biliyorsun. #line:a58a14
+Chazokov: Bu duyduğum en üzücü cümlelerden biri. #line:39be2d
 <<wait .5>>
 Mae: _o_ #line:c93ec4
-Mae: Sorry? #line:976668
-Chazokov: Come back some evening, we'll cram some stars into that head of yours. #line:872a8f
+Mae: Üzgünüm? #line:976668
+Chazokov: Bir akşam tekrar gel, kafana birkaç tane yıldız sıkıştıralım. #line:872a8f
 Mae: :) #line:46f60a
-Mae: Will do! #line:08fcea
+Mae: Tamamdır! #line:08fcea
 Mae: :| #line:5d32d8
 <<set $chazokov to 4>>
 ===
@@ -170,7 +170,7 @@ tags: demo
 colorID: 0
 position: 23581,-2844
 ---
-Chazokov: My roof is your roof! #line:3260df
+Chazokov: Benim çatım senin çatındır! #line:3260df
 ===
 title: ChazokovEnterUnderhillFromTelescope_A2D1
 tags: demo2
