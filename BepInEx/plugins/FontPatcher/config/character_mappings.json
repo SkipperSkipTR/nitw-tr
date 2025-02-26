@@ -1,0 +1,39 @@
+{
+    "Characters": [
+        {
+            "Character": "Ç",
+            "SpriteName": "c_cedilla",
+            "Width": 0.4,
+        },
+		{
+            "Character": "Â",
+            "SpriteName": "a_circumflex",
+            "Width": 0.5,
+        },
+		{
+            "Character": "Ğ",
+            "SpriteName": "g_breve",
+            "Width": 0.5,
+        },
+		{
+            "Character": "İ",
+            "SpriteName": "i_dot",
+            "Width": 0.2,
+        },
+		{
+            "Character": "Ö",
+            "SpriteName": "o_dieresis",
+            "Width": 0.5,
+        },
+		{
+            "Character": "Ü",
+            "SpriteName": "u_dieresis",
+            "Width": 0.5,
+        },
+		{
+            "Character": "Ş",
+            "SpriteName": "s_cedilla",
+            "Width": 0.35,
+        }
+    ]
+}
